@@ -1,0 +1,25 @@
+name: HelpBook
+main: com.tlcairriders.fartmanner.MainClass
+version: 0.1337
+
+commands:
+
+    helpbook:
+      description: Help Book.
+      usage: /helpbook
+    hb:
+      description: Help Book.
+      usage: /hb
+    helpbookadmin:
+      description: Help Book Admin.
+      usage: /helpbookadmin
+      permission : helpbook.admin
+    hba:
+      description: Help Book Admin.
+      usage: /hba
+      permission : helpbook.admin
+      
+permissions :
+  
+  helpbook.admin:
+    description : Admin commands for HelpBook

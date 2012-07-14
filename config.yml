@@ -1,0 +1,11 @@
+servername : Test Server
+
+subjects :
+  TestSub : This is a test subject :)
+  
+chapters :
+  TestChap :
+    - This is a chapter detailing how this chapter is a test
+    - 1. This chapter is a Test because it is default
+    - 2. This Chapter is a Test because the Developer said so
+    - 3. This Chapter is a Test just because :p
